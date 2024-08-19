@@ -1,0 +1,1 @@
+I developed a fitness application using React Native as part of a learning initiative to deepen my understanding of key concepts in mobile development. This project allowed me to explore React Native's capabilities, enhance my skills in building cross-platform apps, and implement effective UI/UX design practices.
